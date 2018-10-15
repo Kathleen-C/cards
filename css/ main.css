@@ -29,7 +29,7 @@ html {
 
 .cards img {
   display: block;
-  margin: 0 auto 1 rem;
+  margin: 0 auto 1rem;
 }
 
 .cards strong {
@@ -41,4 +41,16 @@ html {
 
 .cards dl {
   margin-bottom: 1rem;
+}
+
+.cards dt {
+  dsiplay: inline-block
+  width: 6em;
+  font-stlye: italic
+}
+
+.cards dd {
+  display: inline-block;
+  margin: 0;
+  min-width: 9em
 }
